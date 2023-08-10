@@ -3,11 +3,11 @@
 
 
 ## 🚀 Sobre mim
-Sou uma desenvolvedora front-end altamente motivada, em busca de oportunidades emocionantes para expandir minhas habilidades e contribuir com equipes dinâmicas. Com conhecimentos em ferramentas e tecnologias para desenvolvimento web e paixão por criar interfaces atraentes e funcionais, estou pronta para enfrentar novos desafios e aprender com profissionais experientes.
+Sou uma desenvolvedora de software apaixonada por transformar conceitos em códigos funcionais, além de querer sempre enfrentar novos desafios e aprender constantemente.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React.js e Git/GitHub
+C#, .NET Framework, .NET Core, ASP.NET Core, Javascript, HTML, CSS, React.js
 
 
 ## 🔗 Links
