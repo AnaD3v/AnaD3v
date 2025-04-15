@@ -6,7 +6,7 @@
 I'm a software developer passionate about turning concepts into functional code, always eager to take on new challenges and constantly learn.
 
 ## 🛠 Skills
-C#, .NET Framework, ASP.NET Core, Javascript, HTML, CSS, React.js
+JavaScript, React.Js, Puppeteer, Express, Electron, C#, .NET Framework
 
 
 ## 🔗 Links
