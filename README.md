@@ -6,7 +6,7 @@
 I'm a software developer passionate about turning concepts into functional code, always eager to take on new challenges and constantly learn.
 
 ## 🛠 Skills
-JavaScript, React.Js, Puppeteer, Express, Electron, Python, Flask, C#, .NET Framework
+JavaScript, React.Js, Node.JS, Puppeteer, Express, Electron, Python, Flask, C#, .NET Framework
 
 
 ## 🔗 Links
